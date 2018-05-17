@@ -9,3 +9,7 @@ Attractor and Repeller basicaly is a type of **particle system**  which consist 
 > Repeller repel each other. Let's say there are two repeller **A** and **B** at certain distance **d** from each otehr then if and only if distance d between them is less than some threshold they start moving away from each other. The amount of force with which they move away from each other can either be calculated by same methods.
 
 ### Live Example: [attractor](http://streamofbytes.blogspot.in/2017/12/where-girls-code.html).
+
+### Demo:
+
+<img src="https://j.gifs.com/E9VR10.gif"></img>

@@ -2,6 +2,9 @@
 
 This code shows how a simple follower can be implemented.It uses Vectors to calculate Acceleration,Velocity and Direction.
 
+### Demo:
+ <img src="https://j.gifs.com/86D2o3.gif" title="follower">
+ 
 ### Formulae
  
  We know that:        

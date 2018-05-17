@@ -1,6 +1,7 @@
-## Simple Particle System
+# Simple Particle System
+
+> Particle system is a system consisiting of numerous particles governed by simple rules of physics. These particula system contains particles floating around randomly and when they come close to each other to a certain distance a line is drawn between them which stays as long as they stay close to each other.
 
 
-
-Draws a bunch of particles and then join them with line if and only if the distance vector between them is in some defined range see [here](http://streamofbytes.blogspot.in/2017/12/codingConventionsOne.html).
+- Live : [here](http://streamofbytes.blogspot.in/2017/12/codingConventionsOne.html).
 

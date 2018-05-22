@@ -2,7 +2,7 @@
 > The Lorenz attractor is an attractor that arises in a simplified system of equations describing the two-dimensional flow of fluid of uniform depth , with an imposed temperature difference , under gravity , with buoyancy , thermal diffusivity , and kinematic viscosity.
 
 ## Formulae
-<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f993e17e16f1c3ea4ad7031353c61164a226bb8"></img>
+<img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f993e17e16f1c3ea4ad7031353c61164a226bb8" title="From Wikipedia">
 - Let 
    - σ (sigma) = 10
    - ρ (rho) = 28
@@ -24,4 +24,5 @@
 > In the code I am keeping an ArrayList for storing vertices ( [x,y,z] ), In every draw loop's iteration, I am drawing the whole figure from start to end which produces nice contunity effects else it would only have been drawing points.
 
 ## Demo:
-<img src="https://j.gifs.com/nr9XqP.gif"></img>
+
+<img src="https://j.gifs.com/MQVgzR.gif" title="The Lorentz Attractor">

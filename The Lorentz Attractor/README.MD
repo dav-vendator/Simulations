@@ -3,6 +3,7 @@
 
 ## Formulae
 <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f993e17e16f1c3ea4ad7031353c61164a226bb8" title="From Wikipedia">
+
 - Let 
    - σ (sigma) = 10
    - ρ (rho) = 28

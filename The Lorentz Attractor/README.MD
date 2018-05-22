@@ -22,3 +22,6 @@
 
 ## Important points:
 > In the code I am keeping an ArrayList for storing vertices ( [x,y,z] ), In every draw loop's iteration, I am drawing the whole figure from start to end which produces nice contunity effects else it would only have been drawing points.
+
+## Demo:
+<img src="https://j.gifs.com/nr9XqP.gif"></img>
